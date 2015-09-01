@@ -1,4 +1,4 @@
-# HTML-CSS_Homework
+# HTML-CSS: A happy union
 Homework exercise on HTML and CSS
 The World Wide Web has evolved from the dark days of a black screen with green letters used by a small sector of the population, to a vital tool that is entwined in practically every aspect of our daily lives. 
 
